@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "xatabail": "github:Bealllevey62/xatabail"
+  "raraabail": "github:Raraaimupp/baileysx2026"
 }
 ```
 ## Import
@@ -16,7 +16,7 @@
 const {
   default:makeWASocket,
   // Other Options 
-} = require('xatabail');
+} = require('raraabail');
 ```
 
 ---
@@ -25,7 +25,7 @@ const {
 ```javascript
 const {
   default: makeWASocket
-} = require('xatabail');
+} = require('raraabail');
 
 const client = makeWASocket({
   browser: ['Ubuntu', 'Chrome', '20.00.1'],
@@ -33,4 +33,4 @@ const client = makeWASocket({
 })
 ```
 
-Uploaded by Raraaimupp
+Baileys by Raraaimupp
